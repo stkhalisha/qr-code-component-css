@@ -1,5 +1,6 @@
 <h1 align="center">Frontend Mentor - QR Code Component Solution</h1>
 
+<img width="1440" alt="Screenshot 2023-03-12 at 23 05 32" src="https://user-images.githubusercontent.com/60285814/224557357-32bad86e-c788-46c4-bca4-e784178e7f52.png">
 
 This is a solution to the [QR Code Component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H).
 
